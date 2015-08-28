@@ -3,7 +3,7 @@ Starter files for building application documentation
 ####################################################
 
 
-See the `Dcoumentation for documenting applications
+See the `Documentation for documenting applications
 <http://application-documentation.readthedocs.org>`_ for more guidance on building and writing
 documentation.
 
@@ -18,8 +18,11 @@ For a brand-new project
 * Follow the directions for `setting up <http://application-documentation.readthedocs.org>`_ and
   then `configuring <http://application-documentation.readthedocs.org>`_ your documentation.
 
-* Copy the *contents of* (i.e. not the directory itself) the ``starter-docs`` directory
-  into your project's ``docs`` directory.
+* ``git clone git@github.com:divio/application-documentation-starter-files.git`` (i.e. this
+  repository) into another directory.
+
+* Copy the *contents of* (i.e. not the directory itself) the ``starter-docs`` directory of this
+  project into your project's ``docs`` directory.
 
 * Copy the ``STARTER-README.rst`` file into your project, and rename it to ``README.rst``
 

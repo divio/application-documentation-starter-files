@@ -56,5 +56,5 @@ correct:
 Provide actual content
 ======================
 
-Throughout the starter files you will see text in square brackets, e.g.``[describe what the
+Throughout the starter files you will see text in square brackets, e.g. ``[describe what the
 application does]`` - these are things you need to do.

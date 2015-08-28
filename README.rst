@@ -15,13 +15,13 @@ How to use these starter files
 For a brand-new project
 =======================
 
-1. Follow the directions for `setting up <http://application-documentation.readthedocs.org>`_ and
-   then `configuring <http://application-documentation.readthedocs.org>`_ your documentation.
+* Follow the directions for `setting up <http://application-documentation.readthedocs.org>`_ and
+  then `configuring <http://application-documentation.readthedocs.org>`_ your documentation.
 
-1. Copy the *contents of* (i.e. not the directory itself) the ``starter-docs`` directory
-   into your project's ``docs`` directory.
+* Copy the *contents of* (i.e. not the directory itself) the ``starter-docs`` directory
+  into your project's ``docs`` directory.
 
-1. Copy the ``STARTER-README.rst`` file into your project, and rename it to ``README.rst``
+* Copy the ``STARTER-README.rst`` file into your project, and rename it to ``README.rst``
 
 
 For a project that has some of these files already

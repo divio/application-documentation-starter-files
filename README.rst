@@ -4,7 +4,7 @@ Starter files for building application documentation
 
 
 See the `Documentation for documenting applications
-<http://application-documentation.readthedocs.org>`_ for more guidance on building and writing
+<https://application-documentation.readthedocs.io>`_ for more guidance on building and writing
 documentation.
 
 
@@ -15,8 +15,8 @@ How to use these starter files
 For a brand-new project
 =======================
 
-* Follow the directions for `setting up <http://application-documentation.readthedocs.org>`_ and
-  then `configuring <http://application-documentation.readthedocs.org>`_ your documentation.
+* Follow the directions for `setting up <https://application-documentation.readthedocs.io>`_ and
+  then `configuring <https://application-documentation.readthedocs.io>`_ your documentation.
 
 * ``git clone git@github.com:divio/application-documentation-starter-files.git`` (i.e. this
   repository) into another directory.
